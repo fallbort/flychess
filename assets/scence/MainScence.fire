@@ -186,7 +186,7 @@
       "array": [
         0,
         0,
-        252.8794179050561,
+        251.13947136788784,
         0,
         0,
         0,
@@ -1898,7 +1898,7 @@
       "width": 375,
       "height": 425
     },
-    "_fitWidth": false,
+    "_fitWidth": true,
     "_fitHeight": true,
     "_id": "59Cd0ovbdF4byw5sbjJDx7"
   },
@@ -1912,7 +1912,7 @@
     "_enabled": true,
     "alignMode": 1,
     "_target": null,
-    "_alignFlags": 21,
+    "_alignFlags": 45,
     "_left": 0,
     "_right": 0,
     "_top": 0,
