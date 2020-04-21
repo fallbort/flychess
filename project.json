@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "flychess",
+  "uuid": "147e34ad-821e-46ed-b166-27c4917843f4",
+  "version": "2.3.3",
+  "id": "8e6be304-05bd-4c58-af78-d61df64c197a",
+  "isNew": false
+}
